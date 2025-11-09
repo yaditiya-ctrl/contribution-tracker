@@ -1,0 +1,5 @@
+# GitHub Contribution Tracker
+
+This file is automatically updated daily to maintain GitHub contribution graph.
+
+Last update: Initial commit
